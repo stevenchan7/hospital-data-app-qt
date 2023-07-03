@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>listDokter.txt</file>
+        <file>000001.txt</file>
+        <file>listAdmin.txt</file>
+        <file>log.txt</file>
+    </qresource>
+</RCC>
